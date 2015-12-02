@@ -13,10 +13,10 @@ Once done, save and check the widget, magic will happen.
 */
 
 //Server IP
-$ip = "localhost";
+$ip = "mc.minetopia.mcsrv.eu";
 
 //Server Port
-$port = "25565"; 
+$port = "25938"; 
 
 //Minotar ? Cravatar ?
 $headsurl = "Minotar";
@@ -25,7 +25,7 @@ $headsurl = "Minotar";
 $headsize = "20";
 
 //Your offline message ! (Currently Now Working !, if your server is offline, it won't show anything !!)
-$offline = "Oh no, we're offline!";
+$offline = "De server is op dit moment Ofline!";
 
 
 /* 
